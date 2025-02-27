@@ -1,4 +1,4 @@
-# Image-Processing-with-OpenMP
+# Image-Processing-with-OpenMP-&-CUDA
 Speeding up image processing with OpenMP API
 
 To compile the serial/OpenMP code using the NVCC compiler enter the following command in the terminal:  
